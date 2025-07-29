@@ -1,0 +1,83 @@
+student_id,student_name,grade,class_section,region,assignment_name,submission_status,submission_date,score_percentage
+S001,Alice Johnson,8,A,North,Math Homework 1,submitted,2025-07-27,95
+S002,Bob Smith,8,A,North,Math Homework 1,pending,N/A,N/A
+S003,Charlie Brown,8,B,North,History Essay,submitted,2025-07-26,88
+S004,Diana Miller,9,A,South,Science Project,submitted,2025-07-24,92
+S005,Evan Davis,9,A,South,Science Project,pending,N/A,N/A
+S006,Fiona Wilson,10,C,East,Literature Quiz,scheduled,2025-08-07,N/A
+S007,George Thompson,8,A,North,Math Homework 1,submitted,2025-07-21,78
+S008,Hannah Lee,8,B,North,English Essay,submitted,2025-07-25,85
+S009,Ian Rodriguez,8,A,North,Physics Lab Report,submitted,2025-07-23,91
+S010,Julia Martinez,8,B,North,Chemistry Quiz,submitted,2025-07-22,76
+S011,Kevin Anderson,9,A,South,Biology Assignment,submitted,2025-07-26,89
+S012,Lisa Garcia,9,B,South,Math Test,submitted,2025-07-24,94
+S013,Michael Chen,9,A,South,History Project,submitted,2025-07-25,87
+S014,Nina Patel,9,B,South,English Presentation,submitted,2025-07-23,93
+S015,Oscar Kim,10,C,East,Physics Exam,submitted,2025-07-22,82
+S016,Paula Singh,10,C,East,Chemistry Lab,submitted,2025-07-27,88
+S017,Quinn Taylor,10,A,East,Math Assignment,submitted,2025-07-21,96
+S018,Rachel White,10,B,East,Literature Analysis,submitted,2025-07-26,90
+S019,Sam Jackson,8,A,West,Science Quiz,submitted,2025-07-24,84
+S020,Tina Roberts,8,B,West,Math Homework 2,submitted,2025-07-25,79
+S021,Uma Sharma,8,A,West,History Quiz,submitted,2025-07-23,92
+S022,Victor Lopez,8,B,West,English Grammar Test,submitted,2025-07-22,86
+S023,Wendy Clark,9,A,West,Biology Lab Report,submitted,2025-07-27,91
+S024,Xavier Young,9,B,West,Chemistry Assignment,submitted,2025-07-21,83
+S025,Yuki Tanaka,9,A,West,Physics Problem Set,submitted,2025-07-26,88
+S026,Zoe Adams,9,B,West,Math Quiz,submitted,2025-07-24,95
+S027,Alex Turner,10,A,North,Literature Essay,submitted,2025-07-25,87
+S028,Bella Foster,10,B,North,Science Research,submitted,2025-07-23,89
+S029,Carlos Hernandez,10,A,North,Math Final Project,submitted,2025-07-22,94
+S030,Daria Petrov,10,B,North,History Timeline,submitted,2025-07-27,85
+S031,Ethan Moore,8,A,South,Art Project,submitted,2025-07-21,90
+S032,Freya Nielsen,8,B,South,Music Theory Quiz,submitted,2025-07-26,88
+S033,Gabriel Santos,8,A,South,PE Fitness Test,submitted,2025-07-24,92
+S034,Holly Wright,8,B,South,Computer Science Lab,submitted,2025-07-25,86
+S035,Isaac Bell,9,A,North,Geography Assignment,submitted,2025-07-23,84
+S036,Jade Cooper,9,B,North,Economics Essay,submitted,2025-07-22,91
+S037,Kyle Murphy,9,A,North,Social Studies Project,submitted,2025-07-27,87
+S038,Luna Brooks,9,B,North,Foreign Language Quiz,submitted,2025-07-21,89
+S039,Mason Reed,10,C,South,Advanced Math,submitted,2025-07-26,93
+S040,Nora Kelly,10,C,South,AP Science Lab,submitted,2025-07-24,96
+S041,Owen Price,10,C,South,Philosophy Essay,submitted,2025-07-25,88
+S042,Penny Cook,10,C,South,Statistics Project,submitted,2025-07-23,85
+S043,Quincy Ward,8,A,East,Drama Performance,submitted,2025-07-22,94
+S044,Ruby Torres,8,B,East,Debate Competition,submitted,2025-07-27,90
+S045,Sean Howard,8,A,East,Science Fair Project,submitted,2025-07-21,87
+S046,Tara Cox,8,B,East,Math Olympiad,submitted,2025-07-26,92
+S047,Ulysses Gray,9,A,East,Robotics Challenge,submitted,2025-07-24,89
+S048,Vera Hughes,9,B,East,Environmental Study,submitted,2025-07-25,91
+S049,Wade Fisher,9,A,East,Programming Assignment,submitted,2025-07-23,86
+S050,Xara Butler,9,B,East,Creative Writing,submitted,2025-07-22,88
+S051,Yale Sanders,10,A,West,College Prep Math,submitted,2025-07-27,95
+S052,Zara Griffin,10,B,West,AP Literature,submitted,2025-07-21,93
+S053,Aaron Phillips,10,A,West,Physics Advanced,submitted,2025-07-26,90
+S054,Bree Coleman,10,B,West,Chemistry Honors,submitted,2025-07-24,87
+S055,Connor Walsh,8,A,North,Spanish Quiz,submitted,2025-07-28,83
+S056,Delia Park,8,B,North,French Assignment,submitted,2025-07-29,89
+S057,Eli Foster,9,A,South,German Oral Test,submitted,2025-07-28,91
+S058,Faith Kumar,9,B,South,Latin Translation,submitted,2025-07-29,85
+S059,Gage Nelson,10,C,East,Japanese Writing,submitted,2025-07-28,88
+S060,Hope Rivera,10,A,West,Mandarin Speaking,submitted,2025-07-29,92
+S001,Alice Johnson,8,A,North,Algebra Quiz,scheduled,2025-08-02,N/A
+S004,Diana Miller,9,A,South,Biology Quiz,scheduled,2025-08-04,N/A
+S006,Fiona Wilson,10,C,East,Literature Quiz,scheduled,2025-08-07,N/A
+S015,Oscar Kim,10,C,East,Advanced Physics,scheduled,2025-08-03,N/A
+S027,Alex Turner,10,A,North,Final Literature Exam,scheduled,2025-08-05,N/A
+S039,Mason Reed,10,C,South,Calculus Test,scheduled,2025-08-06,N/A
+S051,Yale Sanders,10,A,West,AP Calculus,scheduled,2025-08-08,N/A
+S018,Rachel White,10,B,East,Poetry Analysis,scheduled,2025-08-09,N/A
+S029,Carlos Hernandez,10,A,North,Geometry Final,scheduled,2025-08-10,N/A
+S040,Nora Kelly,10,C,South,Chemistry Final,scheduled,2025-08-11,N/A
+S002,Bob Smith,8,A,North,Math Homework 2,pending,N/A,N/A
+S005,Evan Davis,9,A,South,Chemistry Report,pending,N/A,N/A
+S010,Julia Martinez,8,B,North,Science Project,pending,N/A,N/A
+S020,Tina Roberts,8,B,West,History Assignment,pending,N/A,N/A
+S024,Xavier Young,9,B,West,English Essay,pending,N/A,N/A
+S030,Daria Petrov,10,B,North,Math Problem Set,pending,N/A,N/A
+S035,Isaac Bell,9,A,North,Science Lab Report,pending,N/A,N/A
+S042,Penny Cook,10,C,South,Literature Analysis,pending,N/A,N/A
+S046,Tara Cox,8,B,East,Physics Assignment,pending,N/A,N/A
+S050,Xara Butler,9,B,East,Math Quiz,pending,N/A,N/A
+S056,Delia Park,8,B,North,Art Portfolio,pending,N/A,N/A
+S058,Faith Kumar,9,B,South,Music Composition,pending,N/A,N/A
