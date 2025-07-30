@@ -4,7 +4,7 @@
 
 ## 🎬 Demo Video
 
-[![Demo](https://github.com/user-attachments/assets/13e52cfd-cd0b-4c17-b6da-3cb07a199aa2)](https://github.com/user-attachments/assets/13e52cfd-cd0b-4c17-b6da-3cb07a199aa2)
+[![Demo](https://www.loom.com/share/52498750f0fc4a89bbe5dcf6669429c7?sid=76d7c7ed-7f13-4836-8d78-b7cf9ff5e0fc)
 
 *👆 Watch the full demo of the Dumroo.ai Admin Chatbot*
 
